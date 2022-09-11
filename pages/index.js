@@ -13,7 +13,7 @@ export default function Home() {
 	return (
 		<div>
 			<Head>
-				<title>Sobhan Bera's Route Redirector</title>
+				<title>{"Sobhan Bera's Route Redirector"}</title>
 				<meta
 					name="description"
 					content="Sobhan Bera | Portfolio Redirector"
